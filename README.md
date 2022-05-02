@@ -10,14 +10,14 @@ The audited scope implements an algorithmic ERC 20 stable coin with the function
 
 ### Scope of the Audit
 The scope of the audit includes the following smart contracts at:
-contracts/Oracle.sol
-contracts/Waifu.sol
-contracts/interfaces/aave.sol
-contracts/interfaces/cMarket.sol
-contracts/interfaces/compound.sol
-contracts/interfaces/controller.sol
-contracts/interfaces/UniswapV2Router02.sol
-contracts/interfaces/vault.sol
+* contracts/Oracle.sol
+* contracts/Waifu.sol
+* contracts/interfaces/aave.sol
+* contracts/interfaces/cMarket.sol
+* contracts/interfaces/compound.sol
+* contracts/interfaces/controller.sol
+* contracts/interfaces/UniswapV2Router02.sol
+* contracts/interfaces/vault.sol
 
 ## Security Assessment Methodology
 
